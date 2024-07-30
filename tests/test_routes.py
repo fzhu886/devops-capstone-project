@@ -41,6 +41,7 @@ class TestAccountService(TestCase):
     @classmethod
     def tearDownClass(cls):
         """Runs once before test suite"""
+        pass
 
     def setUp(self):
         """Runs before each test"""
